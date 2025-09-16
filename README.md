@@ -3,8 +3,11 @@
 # chill_or_grind
 
 How do you know when to chill or when to grind?
+
 Analyze your heart-rate interval data to get the answers you have always sought
+
 Get metrics that will allow you to learn what times are good to fall asleep, to work, to eat, et cetera...
+
 Basically this module shows you when your parasympathetic nervous system is dominant and when your sympathetic system is dominant, and what their balance is like
 
 # Metrics
