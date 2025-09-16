@@ -4,7 +4,7 @@
 #       Make sure to remove DC component and apply Hamming window if needed beforehand
 #
 # 1)    Calculate total power within the frequency range of F_m +- L/2, as S_L
-# 2)    Calculate totwer power within the frequency range ranging from F_m +- w/2
+# 2)    Calculate total power within the frequency range ranging from F_m +- w/2
 #       Call that S_W
 #       Where w is simply a range of values between 0 to and including L/2
 #
