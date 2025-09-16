@@ -1,13 +1,21 @@
+# NOTE: IS CURRENTLY TO BE DONE/UNFINISHED
+
 # chill_or_grind
 
-How do you know when to chill or when to grind? Sweat not, this is the perfect script to find out
+How do you know when to chill or when to grind?
 Analyze your heart-rate interval data to get the answers you have always sought
-Learn when is the best time to sleep, eat, poop, work, or do sports, and much more!
-Basically this module shows you when your parasympathetic nervous system is dominant and when your sympathetic system is dominant
+Get metrics that will allow you to learn what times are good to fall asleep, to work, to eat, et cetera...
+Basically this module shows you when your parasympathetic nervous system is dominant and when your sympathetic system is dominant, and what their balance is like
 
-# Implementation
-For fun and hopefully a better solution let us avoid doing doing the detrended fluctuation analysis the usual way, instead let us:
+# Metrics
+For fun and hopefully to find the most accurate solutions, we'll use the following metrics:
 
-1) Find trends using segmented regression
-2) Detrend those trends
-3) Use a sliding window approach to calculate fluctuation
+0) Detrended fluctuation analysis
+1) Multi-fractal detrended fluctuation analysis
+2) Hsi indicator
+3) Fundamnetal (cepstrum) Hsi
+4) Standard deviation of successive differences
+5) Standard deviation of NN intervals
+6) Root mean square of successive differences
+7) LF/HF ratio
+8) Heart-rate
